@@ -1,0 +1,120 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #E2E2E0;
+}
+
+#topo{
+	background-color: #F7B600;
+	text-align: center;
+	padding: 20px;
+	/*height: 100px; */
+}
+
+#topo a:link, #topo a:visited{
+	color: white;
+	padding: 8px 12px;
+}
+
+#topo a:hover{
+	color: #f7b600;
+	padding: 5px;
+	background-color: white;
+}
+
+
+#logo, #link{
+	padding: 10px;
+
+}
+
+#principal{
+	padding: 20px;
+	margin: 10px auto;
+	width: 940px;
+}
+
+#principal a:link, #principal a:visited{
+	color: #F98527;
+}
+
+#principal a:hover{
+	text-decoration: underline;
+}
+
+#postagem{
+	width: 640px;
+	background: white;
+	padding: 10px;
+	float: left;
+}
+
+#lateral{
+	width: 220px;
+	background: white;
+	float: right;
+	padding: 20px;
+}
+
+
+#rodape{
+	background-color: #7D7D7D;
+	clear: both;
+	padding: 15px;
+	text-align: center;
+}
+
+.caixa{
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.branco{
+	color: white;
+}
+
+.data{
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4; 
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.canto{
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.canto p{
+	font-size: 0.8em;
+	padding: 5px;
+}
+
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2{
+	color: #F7B600;
+}
+
+h3{
+	color: #5F5F5F;
+	background-color: #B5B4B4;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+}
+
+hr{
+	margin: 5px;
+}
